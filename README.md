@@ -55,8 +55,6 @@ src/
 
 - Todos os testes devem passar com sucesso.
 
-- Mínimo para aprovação: 6 de 7 testes aprovados.
-
 - Código limpo, organizado e seguindo boas práticas de programação.
 
 ## 🚀 Como clonar e executar o projeto
