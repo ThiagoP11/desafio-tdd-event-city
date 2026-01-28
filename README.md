@@ -1,11 +1,11 @@
-# 🧪 Desafio TDD - Event City
+# TDD - Event City
 
 Este projeto foi desenvolvido como parte do **Desafio TDD Event City** da [DevSuperior](https://devsuperior.com.br).  
 O objetivo é implementar as funcionalidades necessárias para que **todos os testes automatizados do projeto passem com sucesso**.
 
 ---
 
-## 📋 Descrição do desafio
+## 📋 Descrição
 
 O sistema simula uma aplicação de **eventos e cidades**, com uma relação **N-1** entre eles:
 
